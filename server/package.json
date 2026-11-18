@@ -1,0 +1,7 @@
+{
+  "name": "aiims-api",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  }
+}
